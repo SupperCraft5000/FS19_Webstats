@@ -4,7 +4,6 @@
 Ich bin aktuell dabei (versuche) die Daten auf den LS22 anzupassen. Die bedeutet das es inkompatiebel zu dem FS19 wird.
 Die Convertieung ist noch nicht abgeschlossen dies bedeutet das nicht alles funktionen richtig dargestellt werden bzw verfügbar sind.
 
-English below
 
 ## Update 30.01.2019 - was bisher funktioniert:
 - **Auch mit Patch 1.2.0.1 wurde die Web API des Farming Simulators nicht erweitert. Zur Zeit ist es nur per FTP Server möglich die Daten von einem dedizierten Server zu laden**
