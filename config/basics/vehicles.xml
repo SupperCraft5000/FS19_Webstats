@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mapconfig>
 	<vehicles>
+		<!-- Tractors -->
+		<!-- FENT -->
 		<vehicle basename="vario200.xml" type="tractor" name="200 V Vario" brand="FENDT" lifetime="600" category="tractorsS" wearable="480">
 			<motor id="1" name="207 V Vario" />
 			<motor id="2" name="208 V Vario" />
@@ -8,5 +10,34 @@
 			<motor id="4" name="210 V Vario" />
 			<motor id="5" name="211 V Vario" />
 		</vehicle>
+		<vehicle basename="vario300.xml" type="tractor" name="300 Vario" brand="FENDT" lifetime="600" category="tractorsS" wearable="480">
+			<motor id="1" name="Vario 311" />
+			<motor id="2" name="Vario 312" />
+			<motor id="3" name="Vario 313" />
+			<motor id="4" name="Vario 314" />
+		</vehicle>
+		<vehicle basename="vario700.xml" type="tractor" name="700 Vario" brand="FENDT" lifetime="600" category="tractorsS" wearable="480">
+			<motor id="1" name="Vario 714" />
+			<motor id="2" name="Vario 716" />
+			<motor id="3" name="Vario 718" />
+			<motor id="4" name="Vario 720" />
+			<motor id="5" name="Vario 722" />
+			<motor id="6" name="Vario 724" />
+		</vehicle>
+		<vehicle basename="vario900.xml" type="tractor" name="900 Vario" brand="FENDT" lifetime="600" category="tractorsS" wearable="480">
+			<motor id="1" name="Vario 930" />
+			<motor id="2" name="Vario 933" />
+			<motor id="3" name="Vario 936" />
+			<motor id="4" name="Vario 939" />
+			<motor id="5" name="Vario 942" />
+		</vehicle>
+		<vehicle basename="vario1000.xml" type="tractor" name="1000 Vario" brand="FENDT" lifetime="600" category="tractorsS" wearable="480">
+			<motor id="1" name="Vario 1038" />
+			<motor id="2" name="Vario 1042" />
+			<motor id="3" name="Vario 1046" />
+			<motor id="4" name="Vario 1050" />
+		</vehicle>
+
+
 	</vehicles>
 </mapconfig>
