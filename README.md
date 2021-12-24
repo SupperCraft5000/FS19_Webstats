@@ -1,7 +1,8 @@
 # FS19 Web Stats - BETA VERSION
 
-## Entwicklung meinerseits eingestellt
-Ich spiele kein FS19 mehr. Keine Ahnung ob ich irgendwann man einen Nachfolger spielen werde. Aber im Moment bin ich durch mit dem Spiel. :-) Daher werde ich hier auch nicht weiter entwickeln, erteile aber jedem der möchte hiermit meine Erlaubnis, das Programm weiterzuentwickeln.
+## Converting to FS22
+Ich bin aktuell dabei (versuche) die Daten auf den LS22 anzupassen. Die bedeutet das es inkompatiebel zu dem FS19 wird.
+Die Convertieung ist noch nicht abgeschlossen dies bedeutet das nicht alles funktionen richtig dargestellt werden bzw verfügbar sind.
 
 English below
 
