@@ -37,7 +37,41 @@
 			<motor id="3" name="Vario 1046" />
 			<motor id="4" name="Vario 1050" />
 		</vehicle>
+		<vehicle basename="mt900.xml" type="tractor" name="900 Vario MT" brand="FENDT" lifetime="600" category="tractorsS" wearable="480">
+			<motor id="1" name="Vario 938 MT" />
+			<motor id="2" name="Vario 940 MT" />
+			<motor id="3" name="Vario 943 MT" />
+		</vehicle>
+		<vehicle basename="mt1100.xml" type="tractor" name="1100 Vario MT" brand="FENDT" lifetime="600" category="tractorsS" wearable="480">
+			<motor id="1" name="Vario 1151 MT" />
+			<motor id="2" name="Vario 1156 MT" />
+			<motor id="3" name="Vario 1162 MT" />
+			<motor id="4" name="Vario 1167 MT" />
+		</vehicle>
+		<vehicle basename="favorit500.xml" type="tractor" name="500 Favorit" brand="FENDT" lifetime="600" category="tractorsS" wearable="480">
+			<motor id="1" name="Favorit 511c" />
+			<motor id="2" name="Favorit 515c" />
+		</vehicle>
 
+		<!-- forageHarvesters -->
+		<!-- FENT -->
+		<vehicle basename="katana650.xml" type="combineDrivable" name="Katana 650" brand="FENT" lifetime="600" category="forageHarvesters" wearable="480">
+			<motor id="1" name="Katana 650" />
+		</vehicle>
+
+		<!-- Harvesters -->
+		<!-- FENT -->
+		<vehicle basename="ideal.xml" type="combineDrivable" name="IDEAL" brand="FENT" lifetime="600" category="harvesters" wearable="480">
+			<motor id="1" name="IDEAL 7T" />
+			<motor id="2" name="IDEAL 8T" />
+			<motor id="3" name="IDEAL 9T" />
+			<motor id="4" name="IDEAL 10T" />
+		</vehicle>
+
+		<!-- Cutters -->
+		<!-- FENT -->
+		<vehicle basename="powerFlow.xml" type="cutter" name="PowerFlow" brand="FENT" lifetime="600" category="cutters" wearable="480" />
+		<vehicle basename="dynaFlex9255.xml" type="cutter" name="DynaFlex 9255" brand="FENT" lifetime="600" category="cutters" wearable="480" />
 
 	</vehicles>
 </mapconfig>
