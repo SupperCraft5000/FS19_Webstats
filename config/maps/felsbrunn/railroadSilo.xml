@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mapconfig>
 	<objects>
-		<object name="railroadSilo01" locationType="storage" position="189 0 109" />
-		<object name="railroadSilo02" locationType="storage" position="329 0 -576" />
+		<object name="trainSilo1" locationType="storage" position="-708 87 563" />
+		<object name="trainSilo2" locationType="storage" position="883 88.1 401.12" />
 	</objects>
 	<l10n>
-		<text name="railroadSilo01">
-			<en>railroadSilo01</en>
-			<de>Bahnsilo Ost</de>
+		<text name="trainSilo1">
+			<en>trainSilo1</en>
+			<de>Bahnsilo 1</de>
 		</text>
-		<text name="railroadSilo02">
-			<en>railroadSilo02</en>
-			<de>Bahnsilo West</de>
+		<text name="trainSilo2">
+			<en>trainSilo2</en>
+			<de>Bahnsilo 2</de>
 		</text>
 	</l10n>
 </mapconfig>
